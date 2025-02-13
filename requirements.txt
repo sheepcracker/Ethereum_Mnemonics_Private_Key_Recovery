@@ -1,0 +1,13 @@
+bip_utils
+eth_utils
+eth_account
+numba
+ecdsa
+sha3
+secp256k1
+pysha3
+pycryptodome
+base58
+paramiko
+pynvml
+mnemonic
