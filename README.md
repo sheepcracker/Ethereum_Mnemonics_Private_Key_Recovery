@@ -29,6 +29,6 @@ This tool is designed to:
 ## Installation
 
 ```bash
-git clone https://github.com/sheepcracker/ethereum-mnemonics-private-key-recovery](https://github.com/sheepcracker/Ethereum_Mnemonics_Private_Key_Recovery/
-cd ethereum-mnemonics-private-key-recovery
+git clone https://github.com/sheepcracker/Ethereum_Mnemonics_Private_Key_Recovery/
+cd Ethereum_Mnemonics_Private_Key_Recovery
 pip install -r requirements.txt
